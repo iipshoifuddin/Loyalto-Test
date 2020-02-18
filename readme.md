@@ -18,7 +18,9 @@
     DB_USERNAME=root
     DB_PASSWORD=
  3. akses endpoint :
+    ->
     http://localhost:8000/biodata
+    ->
     http://localhost:8000/viewbiodata
 
 
